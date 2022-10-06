@@ -1,0 +1,1 @@
+Este es un archivo .txt que sirve como ejemplo para el ejercicio cat.

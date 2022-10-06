@@ -1,0 +1,17 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc src/index --outDir scripts",
+    "start": "node scripts/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.8.0",
+    "fs": "0.0.1-security"
+  }
+}
